@@ -1,11 +1,9 @@
 # Hi there, my name is Ferran 👋
 
-![https://github.com/fveigara](./fveigara_github_profile.png)
-
 ![GitHub Followers](https://img.shields.io/github/followers/fveigara?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/fveigara?style=social)
 
-I'm a student of Cross-Platform Application Development Student at UOC.
+I'm a Cross-Platform Application Development Student at UOC.
 
 Passionate about technology and with a clear vocation for IT, I am a creative and ambitious individual with a strong capacity for developing innovative solutions.
 I value teamwork and maintain an open attitude to new perspectives.
@@ -14,14 +12,14 @@ I value teamwork and maintain an open attitude to new perspectives.
 
 ## Follow me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FerranVeigaRamon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ferran-vr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferran_Veiga_Ramon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ferran-vr)
 <!--
 [![Web]()]()
 -->
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/ferranveigar@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ferranveigar@gmail.com)
+[![Email](https://img.shields.io/badge/ferranveigar@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ferranveigar@gmail.com)
 <!--
 **fveigara/fveigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
