@@ -12,7 +12,7 @@ I value teamwork and maintain an open attitude to new perspectives.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ferran_Veiga_Ramon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ferran-vr)
 </br>
-[![Email](https://img.shields.io/badge/ferranveigar@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ferranveigar@gmail.com)
+[![Email](https://img.shields.io/badge/ferranveigar@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ferranveigar@gmail.com)
 <!--
 [![Web]()]()
 -->
