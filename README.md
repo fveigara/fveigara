@@ -20,6 +20,7 @@ I value teamwork and maintain an open attitude to new perspectives.
 ## Contact:
 
 [![Email](https://img.shields.io/badge/ferranveigar@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ferranveigar@gmail.com)
+
 <!--
 **fveigara/fveigara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
