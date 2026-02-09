@@ -3,7 +3,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/fveigara?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/fveigara?style=social)
 
-I'm a Cross-Platform Application Development Student at UOC.
+I'm a Multiplatform Application Development Student at UOC.
 
 Passionate about technology and with a clear vocation for IT, I am a creative and ambitious individual with a strong capacity for developing innovative solutions.
 I value teamwork and maintain an open attitude to new perspectives.
