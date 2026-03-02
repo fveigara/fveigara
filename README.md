@@ -1,4 +1,4 @@
-# Hi there, my name is Ferran 👋
+# Hi there, my name is Ferran
 
 ![GitHub Followers](https://img.shields.io/github/followers/fveigara?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/fveigara?style=social)
